@@ -1,7 +1,7 @@
 # Blockly-HTML
 Blockly blocks and generators for HTML generation and a demo with live preview.
 
-The demo can be tested here: 
+The demo can be tested here: https://raw.githack.com/opencoca/html-blockly/master/index.html
 
 <img src="example.png" width="500" alt="Screenshot" />
 
