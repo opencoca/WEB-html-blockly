@@ -10,6 +10,8 @@ The demo can be tested here: https://raw.githack.com/opencoca/html-blockly/maste
 The files `blockly_compressed.js`, `blocks_compressed.js`, `javascript_compressed.js` and `msg/js/en.js`
 of the Blockly repository need to be present in the directory `blockly`.
 
+## TODO Expose the newer and more flexible Snap-HTML blocks
+
 You can simply checkout the repository https://github.com/google/blockly or unzip https://github.com/google/blockly/archive/master.zip into the directory `blockly`.
 Or you can pick the files above manually to create an environment you can distribute without moving the whole Blockly source code around.
 
